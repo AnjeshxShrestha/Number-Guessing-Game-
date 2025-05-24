@@ -9,7 +9,6 @@ def number_guessing_game():
         if not guess.isdigit():
             print("Please enter a valid number.")
             continue
-
         guess = int(guess)
         attempts += 1
 
