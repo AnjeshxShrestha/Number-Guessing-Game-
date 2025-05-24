@@ -11,7 +11,6 @@ def number_guessing_game():
             continue
         guess = int(guess)
         attempts += 1
-
         if guess < secret_number:
             print("Too low! Try again.")
         elif guess > secret_number:
