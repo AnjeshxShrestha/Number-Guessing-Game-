@@ -1,6 +1,6 @@
 # 🎲 Number Guessing Game
 
-A simple command-line number guessing game written in Python. Great for beginners learning how to use loops, conditionals, and user input.
+A simple command-line number-guessing game written in Python. Great for beginners learning how to use loops, conditionals, and user input.
 
 ## 📌 Features
 
